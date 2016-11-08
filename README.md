@@ -1,6 +1,6 @@
-# AWS SNS sms mailer example with NodeJS
+# AWS SNS Service - SMS example with NodeJS
 
-A simple way to sending SMS with AWS SNS service.
+A simple way to send SMS with AWS SNS service.
 
 To execute this:
 
